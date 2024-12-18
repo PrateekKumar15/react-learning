@@ -1,0 +1,6 @@
+- run  "npm create vite@latest"
+- Now give name to vite project and then select your framework and then select the varient.
+- Now go into the directory of the project folder
+- Now run " npm install " to download node_modules
+- Now run "npm run dev" to run project on port
+- we can delete assets, app.css, index.css form src file.
